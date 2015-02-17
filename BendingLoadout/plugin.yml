@@ -1,0 +1,8 @@
+name: BendingLoadout
+main: com.deltadrivedevelopment.bendingloadout.BendingLoadout
+version: 1
+author: weasel1453
+commands:
+  bendingloadout:
+    description: Access to all bendingloadout commands
+    alias:[bl, bendingloadouts]
