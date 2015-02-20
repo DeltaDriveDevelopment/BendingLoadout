@@ -5,4 +5,4 @@ author: weasel1453
 commands:
   bendingloadout:
     description: Access to all bendingloadout commands
-    alias:[bl, bendingloadouts]
+    aliases: [bl, bendingloadouts]
